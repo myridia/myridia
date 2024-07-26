@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myridia is a Software Company
+- 👋 Hi, we are @myridia a Software Company
 - 👀 We are interested in Free Software, Free Money, Free Land, Free Market and Free Humans   
 - 🌱 We are currently learning about the Philosophy of Technology
 - 💞️ We are looking to collaborates, sponsors and investors
