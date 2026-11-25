@@ -24,7 +24,7 @@ So if you want a friendlier place to build things — with AI or without it — 
 
 - 📫 How to reach us: info@myridia.com
 - 😄 Pronouns: We — close enough
-- ⚡ Fun fact: AI will not conquer the world, it's just our latest trickster
+- ⚡ Fun fact: the AI apocalypse keeps getting delayed by missing dependencies and one very stubborn merge conflict
 
 <!---
 myridia/myridia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
