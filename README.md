@@ -1,5 +1,4 @@
 <img src="myridia.svg" alt="myridia" width="120">
-<img src="myridia.svg" alt="myridia" width="120">
 
 # myridia
 
